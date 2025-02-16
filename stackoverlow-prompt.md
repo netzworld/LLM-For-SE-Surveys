@@ -1,4 +1,4 @@
-# Current Promt
+# Current Prompt
 Use the below prompt to generate python objects for personas and responses:
 
 ---
