@@ -38,11 +38,11 @@ class Persona:
     comfort_with_ambiguity: Union[str, int] # comfort_with_ambiguity = ["Not Comfortable", "Slightly Comfortable", "Moderately Comfortable", "Very Comfortable", "Extremely Comfortable"]
 ```
 
-Do not copy the data class of provide any imports. Simply generate the objects. 
+Do not copy the data class or provide any imports. Simply generate the objects. 
 
-Generate 5 personas.
+Generate 100 personas.
 
-
+TODO: Match the bove approach to generate Survey response objects.
 
 ### StackOverflow Survey Questions:
 
